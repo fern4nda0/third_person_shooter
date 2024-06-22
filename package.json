@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/cannon": "^6.6.0",
+    "@react-three/drei": "^9.97.1",
+    "@react-three/fiber": "^8.16.8",
+    "@react-three/rapier": "^1.2.1",
+    "leva": "^0.9.35",
+    "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "simplex-noise": "3.0.1",
+    "three": "^0.165.0",
+    "three-stdlib": "^2.29.4",
+    "zustand": "^4.5.2"
   },
   "devDependencies": {
     "postcss": "^8",
